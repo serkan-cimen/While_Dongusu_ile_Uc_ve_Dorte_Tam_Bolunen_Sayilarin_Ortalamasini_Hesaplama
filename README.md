@@ -1,0 +1,2 @@
+# While_Dongusu_ile_Uc_ve_Dorte_Tam_Bolunen_Sayilarin_Ortalamasini_Hesaplama
+While_Dongusu_ile_Uc_ve_Dorte_Tam_Bolunen_Sayilarin_Ortalamasini_Hesaplama
